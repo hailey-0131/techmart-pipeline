@@ -7,7 +7,7 @@
 ![Lint](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)
 
-<mark>`hailey-0131/test`</mark>
+<mark>*Replace `hailey-0131/test` with your details*</mark>
 
 ## Project Overview
 
