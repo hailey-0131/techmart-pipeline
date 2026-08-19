@@ -6,8 +6,7 @@
 ![CI Pipeline](https://github.com/hailey-0131/techmart-pipeline/actions/workflows/ci.yml/badge.svg)
 ![Lint](https://github.com/hailey-0131/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/hailey-0131/techmart-pipeline)
-
-<mark>*Replace `hailey-0131/techmart-pipeline` with your details*</mark>
+![Issues](https://img.shields.io/github/issues/hailey-0131/techmart-pipeline)
 
 ## Project Overview
 
