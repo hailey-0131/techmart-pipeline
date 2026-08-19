@@ -3,11 +3,10 @@
 ![Teaching](https://img.shields.io/badge/module-DE5M4-blue)
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
-![CI Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
-![Lint](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/lint.yml/badge.svg)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)
-
-<mark>*Replace `YOUR_USERNAME/YOUR_REPO` with your details*</mark>
+![CI Pipeline](https://github.com/hailey-0131/techmart-pipeline/actions/workflows/ci.yml/badge.svg)
+![Lint](https://github.com/hailey-0131/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
+![Last Commit](https://img.shields.io/github/last-commit/hailey-0131/techmart-pipeline)
+![Issues](https://img.shields.io/github/issues/hailey-0131/techmart-pipeline)
 
 ## Project Overview
 
